@@ -41,3 +41,6 @@ __pycache__
 
 # Env files
 .env
+
+# App runtime data
+src/data/runtime_data.json
